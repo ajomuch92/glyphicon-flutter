@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:glyphicon/glyphicon_icons.dart';
+import 'package:glyphicon/glyphicon.dart';
 
 void main() {
   runApp(MyApp());

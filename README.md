@@ -8,7 +8,7 @@ Do you want to feel retro using the old Bootstrap icons? This package includes 1
 To use this package, just import it into your file and enjoy it.
 
 ```dart
-import 'package:glyphicon/glyphicon_icons.dart';
+import 'package:glyphicon/glyphicon.dart';
 
 ...
 
