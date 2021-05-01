@@ -1,6 +1,6 @@
 name: glyphicon
-description: A retro project for Glyphicons
-version: 0.0.1
+description: Glyphicons is an open source icon set for web, Android and iOS environments. This packages contains the definition for more than 1320 icons used by old versions of Bootstrap (Glyphicon) found in its page. This project in future will have more icons from other no populars icons fonts to increase the comunity of Flutter. This packages was created by Aarón Montes (https://github.com/ajomuch92).
+version: 0.1.0
 homepage: https://github.com/ajomuch92/glyphicon-flutter
 
 environment:
