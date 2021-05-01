@@ -3,7 +3,7 @@ library glyphicon_flutter;
 import 'package:flutter/widgets.dart';
 
 class GlyphiconData extends IconData {
-  const GlyphiconData(int codePoint) : super(codePoint, fontFamily: 'Glyphicon', fontPackage: 'plyphicon');
+  const GlyphiconData(int codePoint) : super(codePoint, fontFamily: 'Glyphicon', fontPackage: 'glyphicon');
 }
 
 class Glyphicon {

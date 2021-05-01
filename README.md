@@ -1,14 +1,18 @@
-# glyphicon_flutter
+# Glyphicon Flutter
 
-A new Flutter package project.
 
-## Getting Started
+Do you want to feel retro using the old Bootstrap icons? This package includes 1325 icons of [Glyphicons](https://icons.getbootstrap.com/). The naming convention is the same as the CSS names, all dashes replaced with underscores.
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+## Usage
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+To use this package, just import it into your file and enjoy it.
+
+```dart
+import 'package:glyphicon/glyphicon_icons.dart';
+
+...
+
+Icon(Glyphicon.alarm)
+Icon(Glyphicon.table, size: 48)
+Icon(Glyphicon.window, size: 48, color: Colors.blue,)
+```
