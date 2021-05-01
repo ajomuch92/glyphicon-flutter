@@ -11,7 +11,7 @@ Include `glyphicon` in your `pubspec.yaml` file:
 dependencies:
   flutter:
     sdk: flutter
-  glyphico: version
+  glyphicon: version
 ```
 
 ## Usage
