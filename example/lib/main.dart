@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
             Icon(Glyphicon.table, size: 48, color: Colors.amber,),
             Icon(Glyphicon.window, size: 48, color: Colors.blue,),
             Icon(Glyphicon.archive, size: 48, color: Colors.orange,),
-            Icon(Glyphicon.text_right, size: 48, color: Colors.redAccent,),
+            Icon(Glyphicon.file_earmark_pdf, size: 48, color: Colors.redAccent,),
           ],
         ),
       ),
