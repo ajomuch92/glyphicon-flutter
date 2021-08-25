@@ -2,7 +2,7 @@
 
 ## Do you want to feel retro using the old Bootstrap icons?
 
-This package includes 1326 icons of [Glyphicons](https://icons.getbootstrap.com/). The naming convention is the same as the CSS names, all dashes replaced with underscores.
+This package includes 1370 icons of [Glyphicons](https://icons.getbootstrap.com/). The naming convention is the same as the CSS names, all dashes replaced with underscores.
 
 ## Instalation
 Include `glyphicon` in your `pubspec.yaml` file:
