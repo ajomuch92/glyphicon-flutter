@@ -13,3 +13,5 @@
 
 ## [0.2.3] - 8th release (25/08/2021)
 
+## [0.3.0] - 9th release (02/07/2022) Updating icons and adding method to get IconData from string
+

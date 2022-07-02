@@ -1,6 +1,6 @@
 name: glyphicon
 description: This packages contains the definition for 1370 icons used by old versions of Bootstrap (Glyphicon).
-version: 0.2.3
+version: 0.3.0
 homepage: https://github.com/ajomuch92/glyphicon-flutter
 
 environment:
