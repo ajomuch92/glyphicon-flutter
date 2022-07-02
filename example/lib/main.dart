@@ -24,6 +24,7 @@ class MyApp extends StatelessWidget {
             Icon(Glyphicon.archive, size: 48, color: Colors.orange,),
             Icon(Glyphicon.file_earmark_pdf, size: 48, color: Colors.redAccent,),
             Icon(Glyphicon.currency_dollar, size: 48, color: Colors.yellow,),
+            Icon(Glyphicon.fromString('bootstrap'), size: 48, color: Colors.purpleAccent,)
           ],
         ),
       ),
