@@ -31,4 +31,5 @@ Icon(Glyphicon.alarm)
 Icon(Glyphicon.table, size: 48)
 Icon(Glyphicon.window, size: 48, color: Colors.blue,)
 Icon(Glyphicon.fromString('bootstrap'), size: 48, color: Colors.purpleAccent,)
+...
 ```
